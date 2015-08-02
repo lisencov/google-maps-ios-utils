@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "Google-Maps-iOS-Utils-QuadTree"
+  s.name         = "Google-Maps-iOS-Utils"
   s.version      = "0.1"
   s.summary      = "A QuadTree library for use with Google Maps iOS SDK."
   s.description  = <<-DESC
